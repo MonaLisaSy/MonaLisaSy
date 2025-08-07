@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [이름]!</h1>
+<h1 align="center">👋 Hi, I'm 유지석!</h1>
 
 <p align="center">
   A passionate Backend Developer from Korea 🇰🇷 <br/>
@@ -12,7 +12,7 @@
 - 🎓 전공: 조선대학교 컴퓨터공학과 졸업  
 - 🔭 최근 프로젝트: **도서 쇼핑몰 웹 서비스**  
 - 💡 관심 기술: Java, Spring Boot, JPA, MSA, Elasticsearch  
-- 🌱 현재 학습 중: Kafka, CI/CD, 대용량 트래픽 처리  
+- 🌱 현재 학습 중: 알고리즘 풀이, Elasticsearch LogBack
 - 📚 NHN Academy 백엔드 과정 10기 수료  
 
 ---
@@ -45,7 +45,7 @@
 - 회원, 주문, 결제, 리뷰, 관리자 기능 구현  
 - Kibana + Logstash + Elasticsearch를 통한 검색 기능 구현  
 
-🔗 [프로젝트 깃허브 링크](https://github.com/본인프로젝트URL)
+🔗 [프로젝트 깃허브 링크](https://github.com/nhnacademy-be10-DoDream)
 
 ---
 
